@@ -8,10 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacttttttt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 <!--START_SECTION:waka-->
 
-```text
-JavaScript   4 hrs 5 mins    █████████████████████████   99.60 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-```
+
 
 <!--END_SECTION:waka-->
 
